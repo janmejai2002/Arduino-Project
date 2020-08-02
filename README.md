@@ -5,7 +5,7 @@ Due to COVID I could not get my hands on an actual Arduino and learnt all of it 
 
 ## Car Parking Guidance System
 
-This setup can be installed in your garage to help you guide while parking your car in reverse. You can use the pushbuttons to set the minimum distance you want between your car and the wall. The distance threshold value is output on an LCD fro you to see. When you car comes under that distance while reversing, the buzzer will go off. When the you forward the car to go away from the wall, the buzzer turns off when the car is no longer under the threshold. Minimum distance has initialized at 10cm for safety.
+This setup can be installed in your garage to help you guide while parking your car in reverse. You can use the pushbuttons to set the minimum distance you want between your car and the wall. The distance threshold value is output on an LCD for you to see. When you car comes under that distance while reversing, the buzzer will go off. When the you forward the car to go away from the wall, the buzzer turns off when the car is no longer under the threshold. Minimum distance has initialized at 10cm for safety.
 
 The timer resets automatically. In practice it would be implemented using Arduino Nano.
 
