@@ -1,7 +1,6 @@
-# Arduino-Project
+# Arduino-Projects
 
-After learning about Arduino programming for a month as a part of my Innovative Product Design Summer Training 2020 in my college, I created these two scripts as my submission for assessment.
-Due to COVID I could not get my hands on an actual Arduino and learnt all of it by practising on Tinkercad Simulation online. I wrote the code there only.
+Collection of Arduino Projects
 
 ## Car Parking Guidance System
 
